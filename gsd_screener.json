@@ -1,0 +1,598 @@
+
+{
+"start" : "0",
+"num" : "3000",
+"num_company_results" : "1408",
+"num_mf_results" : "0",
+"num_all_results" : "",
+"original_query" : "[(exchange == \u0022KOSDAQ\u0022) \u0026 (volume \u003E= 0) \u0026 (volume \u003C= 1000000000000) \u0026 (market_cap \u003E= 0) \u0026 (market_cap \u003C= 1000000000000000) \u0026 (last_price \u003E= 0) \u0026 (last_price \u003C= 10000000)]",
+"query_for_display" : "[(exchange == &quot;KOSDAQ&quot;) &amp; (volume &gt;= 0) &amp; (volume &lt;= 1000000000000) &amp; (market_cap &gt;= 0) &amp; (market_cap &lt;= 1000000000000000) &amp; (last_price &gt;= 0) &amp; (last_price &lt;= 10000000)]",
+"results_type" : "COMPANY",
+"searchresults" :
+[
+{
+"title" : "3NOD Digital Group Co., Ltd",
+"id" : "723143637400335",
+"is_active" : "",
+"ticker" : "900010",
+"exchange" : "KOSDAQ",
+"is_supported_exchange" : "",
+"local_currency_symbol" : "₩",
+"columns" : [
+{
+"display_name": "",
+"value" : "0.00",
+"field" : "Volume",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "-",
+"field" : "MarketCap",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "0.00",
+"field" : "QuoteLast",
+"sort_order" : ""
+}
+]
+}
+, {
+"title" : "3S Korea Co Ltd",
+"id" : "688829278240125",
+"is_active" : "",
+"ticker" : "060310",
+"exchange" : "KOSDAQ",
+"is_supported_exchange" : "",
+"local_currency_symbol" : "₩",
+"columns" : [
+{
+"display_name": "",
+"value" : "124,597.00",
+"field" : "Volume",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "81.01B",
+"field" : "MarketCap",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "1,930.00",
+"field" : "QuoteLast",
+"sort_order" : ""
+}
+]
+}
+, {
+"title" : "A-Jin Industry Co Ltd",
+"id" : "588432940055484",
+"is_active" : "",
+"ticker" : "013310",
+"exchange" : "KOSDAQ",
+"is_supported_exchange" : "",
+"local_currency_symbol" : "₩",
+"columns" : [
+{
+"display_name": "",
+"value" : "60,128.00",
+"field" : "Volume",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "76.29B",
+"field" : "MarketCap",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "5,770.00",
+"field" : "QuoteLast",
+"sort_order" : ""
+}
+]
+}
+, {
+"title" : "A-TECH SOLUTION CO.,LTD",
+"id" : "869751047205246",
+"is_active" : "",
+"ticker" : "071670",
+"exchange" : "KOSDAQ",
+"is_supported_exchange" : "",
+"local_currency_symbol" : "₩",
+"columns" : [
+{
+"display_name": "",
+"value" : "6.72M",
+"field" : "Volume",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "115.00B",
+"field" : "MarketCap",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "11,500.00",
+"field" : "QuoteLast",
+"sort_order" : ""
+}
+]
+}
+, {
+"title" : "A1N Inc",
+"id" : "713735331421667",
+"is_active" : "",
+"ticker" : "035290",
+"exchange" : "KOSDAQ",
+"is_supported_exchange" : "",
+"local_currency_symbol" : "₩",
+"columns" : [
+{
+"display_name": "",
+"value" : "614,406.00",
+"field" : "Volume",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "101.35B",
+"field" : "MarketCap",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "4,780.00",
+"field" : "QuoteLast",
+"sort_order" : ""
+}
+]
+}
+, {
+"title" : "ABCO Electronics Co Ltd",
+"id" : "1041860848236787",
+"is_active" : "",
+"ticker" : "036010",
+"exchange" : "KOSDAQ",
+"is_supported_exchange" : "",
+"local_currency_symbol" : "₩",
+"columns" : [
+{
+"display_name": "",
+"value" : "85,500.00",
+"field" : "Volume",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "93.85B",
+"field" : "MarketCap",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "7,060.00",
+"field" : "QuoteLast",
+"sort_order" : ""
+}
+]
+}
+, {
+"title" : "ABOV Semiconductor Co Ltd",
+"id" : "918519059440603",
+"is_active" : "",
+"ticker" : "102120",
+"exchange" : "KOSDAQ",
+"is_supported_exchange" : "",
+"local_currency_symbol" : "₩",
+"columns" : [
+{
+"display_name": "",
+"value" : "53,924.00",
+"field" : "Volume",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "133.92B",
+"field" : "MarketCap",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "7,670.00",
+"field" : "QuoteLast",
+"sort_order" : ""
+}
+]
+}
+, {
+"title" : "ACT Co Ltd",
+"id" : "840731910976501",
+"is_active" : "",
+"ticker" : "138360",
+"exchange" : "KOSDAQ",
+"is_supported_exchange" : "",
+"local_currency_symbol" : "₩",
+"columns" : [
+{
+"display_name": "",
+"value" : "134,764.00",
+"field" : "Volume",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "73.38B",
+"field" : "MarketCap",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "12,000.00",
+"field" : "QuoteLast",
+"sort_order" : ""
+}
+]
+}
+, {
+"title" : "AD Motors Co., Ltd.",
+"id" : "168832964226902",
+"is_active" : "",
+"ticker" : "038120",
+"exchange" : "KOSDAQ",
+"is_supported_exchange" : "",
+"local_currency_symbol" : "₩",
+"columns" : [
+{
+"display_name": "",
+"value" : "0.00",
+"field" : "Volume",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "-",
+"field" : "MarketCap",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "0.00",
+"field" : "QuoteLast",
+"sort_order" : ""
+}
+]
+}
+, {
+"title" : "ADTechnology Co Ltd",
+"id" : "50075940714764",
+"is_active" : "",
+"ticker" : "200710",
+"exchange" : "KOSDAQ",
+"is_supported_exchange" : "",
+"local_currency_symbol" : "₩",
+"columns" : [
+{
+"display_name": "",
+"value" : "617,217.00",
+"field" : "Volume",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "74.82B",
+"field" : "MarketCap",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "9,180.00",
+"field" : "QuoteLast",
+"sort_order" : ""
+}
+]
+}
+, {
+"title" : "AGABANG\u0026COMPANY",
+"id" : "340702834549513",
+"is_active" : "",
+"ticker" : "013990",
+"exchange" : "KOSDAQ",
+"is_supported_exchange" : "",
+"local_currency_symbol" : "₩",
+"columns" : [
+{
+"display_name": "",
+"value" : "139,124.00",
+"field" : "Volume",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "168.06B",
+"field" : "MarketCap",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "5,110.00",
+"field" : "QuoteLast",
+"sort_order" : ""
+}
+]
+}
+, {
+"title" : "AJS Co Ltd",
+"id" : "883340113914414",
+"is_active" : "",
+"ticker" : "013340",
+"exchange" : "KOSDAQ",
+"is_supported_exchange" : "",
+"local_currency_symbol" : "₩",
+"columns" : [
+{
+"display_name": "",
+"value" : "0.00",
+"field" : "Volume",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "-",
+"field" : "MarketCap",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "0.00",
+"field" : "QuoteLast",
+"sort_order" : ""
+}
+]
+}
+, {
+"title" : "AMINOLOGICS CO.,LTD.",
+"id" : "51991491964485",
+"is_active" : "",
+"ticker" : "074430",
+"exchange" : "KOSDAQ",
+"is_supported_exchange" : "",
+"local_currency_symbol" : "₩",
+"columns" : [
+{
+"display_name": "",
+"value" : "281,912.00",
+"field" : "Volume",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "180.48B",
+"field" : "MarketCap",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "2,055.00",
+"field" : "QuoteLast",
+"sort_order" : ""
+}
+]
+}
+, {
+"title" : "ANAPASS, INC.",
+"id" : "412988542541338",
+"is_active" : "",
+"ticker" : "123860",
+"exchange" : "KOSDAQ",
+"is_supported_exchange" : "",
+"local_currency_symbol" : "₩",
+"columns" : [
+{
+"display_name": "",
+"value" : "31,587.00",
+"field" : "Volume",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "187.36B",
+"field" : "MarketCap",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "18,500.00",
+"field" : "QuoteLast",
+"sort_order" : ""
+}
+]
+}
+, {
+"title" : "APS Holdings Corp",
+"id" : "834415452233256",
+"is_active" : "",
+"ticker" : "054620",
+"exchange" : "KOSDAQ",
+"is_supported_exchange" : "",
+"local_currency_symbol" : "₩",
+"columns" : [
+{
+"display_name": "",
+"value" : "125,653.00",
+"field" : "Volume",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "113.58B",
+"field" : "MarketCap",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "9,520.00",
+"field" : "QuoteLast",
+"sort_order" : ""
+}
+]
+}
+, {
+"title" : "ARION Technology Inc.",
+"id" : "45587882597184",
+"is_active" : "",
+"ticker" : "058220",
+"exchange" : "KOSDAQ",
+"is_supported_exchange" : "",
+"local_currency_symbol" : "₩",
+"columns" : [
+{
+"display_name": "",
+"value" : "328,367.00",
+"field" : "Volume",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "54.84B",
+"field" : "MarketCap",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "750.00",
+"field" : "QuoteLast",
+"sort_order" : ""
+}
+]
+}
+, {
+"title" : "AT Semicon Co Ltd",
+"id" : "143595201124349",
+"is_active" : "",
+"ticker" : "089530",
+"exchange" : "KOSDAQ",
+"is_supported_exchange" : "",
+"local_currency_symbol" : "₩",
+"columns" : [
+{
+"display_name": "",
+"value" : "433,822.00",
+"field" : "Volume",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "29.19B",
+"field" : "MarketCap",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "469.00",
+"field" : "QuoteLast",
+"sort_order" : ""
+}
+]
+}
+, {
+"title" : "AT Technology Co Ltd",
+"id" : "1004605075959568",
+"is_active" : "",
+"ticker" : "073570",
+"exchange" : "KOSDAQ",
+"is_supported_exchange" : "",
+"local_currency_symbol" : "₩",
+"columns" : [
+{
+"display_name": "",
+"value" : "80,059.00",
+"field" : "Volume",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "18.33B",
+"field" : "MarketCap",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "767.00",
+"field" : "QuoteLast",
+"sort_order" : ""
+}
+]
+}
+, {
+"title" : "ATGen",
+"id" : "338615793153327",
+"is_active" : "",
+"ticker" : "182400",
+"exchange" : "KOSDAQ",
+"is_supported_exchange" : "",
+"local_currency_symbol" : "₩",
+"columns" : [
+{
+"display_name": "",
+"value" : "73,744.00",
+"field" : "Volume",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "399.21B",
+"field" : "MarketCap",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "34,800.00",
+"field" : "QuoteLast",
+"sort_order" : ""
+}
+]
+}
+, {
+"title" : "AUSTEM Co., Ltd.",
+"id" : "1038263451370330",
+"is_active" : "",
+"ticker" : "031510",
+"exchange" : "KOSDAQ",
+"is_supported_exchange" : "",
+"local_currency_symbol" : "₩",
+"columns" : [
+{
+"display_name": "",
+"value" : "314,290.00",
+"field" : "Volume",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "100.10B",
+"field" : "MarketCap",
+"sort_order" : ""
+}
+, {
+"display_name": "",
+"value" : "3,850.00",
+"field" : "QuoteLast",
+"sort_order" : ""
+}
+]
+}
+]
+,
+"mf_searchresults" :
+[
+]
+}
